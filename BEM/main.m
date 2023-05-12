@@ -23,13 +23,13 @@ for i=1:length(v0)
     plot(Rx,FT,'b-o');
     hold on
     grid on
-    xlabel('Radius（m）');
-    ylabel('Loads（N/m）');
+    xlabel('Radius(m)');
+    ylabel('Loads(N)');
     legend('Fn','Ft');
 end
 
 %% plot power curve regarding wind speed
 figure(2)
 plot(v0,P,'b-o','linewidth',1.5);
-xlabel('Wind speed（m/s）');
-ylabel('Power (W）');
+xlabel('Wind speed(m/s)');
+ylabel('Power(W)');
