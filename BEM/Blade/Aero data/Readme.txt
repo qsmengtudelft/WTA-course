@@ -1,1 +1,1 @@
-此文件夹存放翼型气动力系数数据，请按照编号按照顺序保存
+This folder stores the aerodynamic coefficient data of airfoils. Please save them in order according to their numbers

@@ -1,3 +1,2 @@
-将叶片的截面切片编号，并将其对应的翼型编号写入Blade section.dat
-数据格式为：
-截面编号    对应翼型编号   距离轮毂中心位置r   桨距角   弦长
+Number the cross-sectional slices of the blades and write their corresponding airfoil numbers in ‘Blade section.dat’
+
